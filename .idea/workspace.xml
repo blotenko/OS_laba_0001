@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f8cc405-4f56-4297-8482-14a4f787eea6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Manager/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Manager/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Manager/ServerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Manager/ServerThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/funcClients/FProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/funcClients/FProcess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/funcClients/GProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/funcClients/GProcess.java" afterDir="false" />
-    </list>
+    <list default="true" id="7f8cc405-4f56-4297-8482-14a4f787eea6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665413513920</updated>
-      <workItem from="1665413515371" duration="16320000" />
+      <workItem from="1665413515371" duration="16930000" />
     </task>
     <servers />
   </component>
